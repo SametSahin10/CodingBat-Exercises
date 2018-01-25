@@ -6,11 +6,11 @@ package diff21;
  */
 
 
-
 /**
  *
  * @author sametsahin
  */
+
 public class Diff21 {
 
     /**
@@ -19,7 +19,7 @@ public class Diff21 {
     public static void main(String[] args) {}
     
     
-    public static int diff21(int n){
+    public int diff21(int n){
         
         if (n > 21) {
             
